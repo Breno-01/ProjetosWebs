@@ -1,0 +1,49 @@
+* {
+    
+}
+
+.table{
+    border-radius: 10px;
+    text-align: center;
+    border: 2px solid rgb(145, 144, 144);
+    width: 750px;
+    background-color: rgb(209, 209, 209);
+    
+}
+
+.thead {
+    background-color: rgba(43, 5, 255, 0.884);
+    color: black;
+    
+}
+
+table {
+    text-align: center;
+   
+}
+
+td{
+    text-align: center;
+}
+
+.td{
+    background-color: blue;
+    width: min-content;
+}
+
+.borda-laranja{
+    background-color: orange;
+
+}
+
+.borda-verde{
+    background-color:#34a853;
+}
+
+.borda-branca{
+    background-color: #ffffff;
+}
+
+.borda-vermelha{
+    background-color: red;
+}
